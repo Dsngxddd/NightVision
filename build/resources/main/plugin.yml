@@ -1,0 +1,5 @@
+name: MClaim
+version: '1.0'
+main: org.cengiz1.nightvision.NightVision
+api-version: '1.20'
+description: Boxpvpler için Gece Görüşü plugini
